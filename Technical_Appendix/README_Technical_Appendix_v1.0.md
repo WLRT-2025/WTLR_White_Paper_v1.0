@@ -51,9 +51,11 @@ This work is licensed under the  \
 You are free to share and adapt this material, provided appropriate attribution is given.
 ## Citation
 If you reference this Technical Appendix, please cite it together with the White Paper:  \
+WLRT — Wave Liquidity Redistribution Theory,  \
 WLRT_Technical_Appendix_v1.0,  \
 Supplementary to WLRT_White_Paper_v1.0,  \
-GitHub repository: https://github.com/WLRT-2025
+GitHub repository: https://github.com/WLRT-2025/WLRT/
+
 ## Disclaimer
 This repository contains a theoretical research model and its technical formalization.  \
 It does not constitute financial, trading, or investment advice.
