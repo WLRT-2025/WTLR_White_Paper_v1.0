@@ -79,7 +79,7 @@ If you reference this work, please cite it as:
 
 WLRT — Wave Liquidity Redistribution Theory,  \
 White Paper v1.0,  \
-GitHub repository: https://github.com/WLRT-2025/WLRT_White_Paper_v1.0
+GitHub repository: https://github.com/WLRT-2025/WLRT/
 
 
 ## Disclaimer
