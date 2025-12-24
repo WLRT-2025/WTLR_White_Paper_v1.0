@@ -7,13 +7,10 @@
 ## Language and Typography Rules (RU)
 
 - In all Russian-language WLRT documents, the letter "ё" is never used.
-- The letter "е" is used in all cases instead.
-- This rule applies to:
-  - PDFs
-  - LaTeX sources
-  - GitHub files
-  - Abstracts, appendices, and metadata
-- The rule is mandatory and not subject to stylistic preference..
+- The letter "е" is used in all cases instead of "ё".
+- The letter "й" is used normally, according to standard Russian orthography.
+- No other orthographic simplifications are applied.
+- This rule applies to all Russian-language texts without exception.
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)  
