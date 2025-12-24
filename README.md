@@ -12,7 +12,10 @@ and scope discipline.
 
 The canonical project state, accepted strategic decisions, version structure,
 and collaboration rules are defined in:
+## Canonical Papers (WLRT v1.x)
 
+- 📄 [WLRT v1.x (English, consolidated)](./WLRT_v1.x_consolidated.pdf)
+- 📄 [WLRT v1.x (Russian, consolidated)](./WLRT_v1.x_consolidated_RU.pdf)
 **/META/WLRT_PROJECT_STATE.md**
 
 This document is the single source of truth for:
